@@ -1,4 +1,4 @@
-<h2>i18n js translate plugin</h2>
+<h2>i18n js translate is a just in time and lightweight translator for websites</h2>
 
 ## Usage
 1) Add references i18njs into last line body tag.<br>
